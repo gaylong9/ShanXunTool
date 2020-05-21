@@ -83,10 +83,10 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ApkExportedModule" value="app" />
     <property name="BundleExportedModule" value="app" />
-    <property name="ExportApk.ApkPath" value="D:\File\Apps" />
+    <property name="ExportApk.ApkPath" value="D:\Repos\ShanXunTool\app\release" />
     <property name="ExportApk.BuildVariants" value="release" />
     <property name="ExportApk.SignV2" value="true" />
-    <property name="last_opened_file_path" value="D:/File/Apps" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/release" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
