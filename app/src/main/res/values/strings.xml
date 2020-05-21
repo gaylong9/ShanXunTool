@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">🐶闪讯</string>
+    <string name="dialog_message">本程序支持从1065930051处获取闪讯密码。\n\n
+        使用前，请先允许以下权限申请，或点击“设置”手动更改权限：\n
+        ○发送短信\n○获取手机信息\n\n
+        拥有权限时自动退出为正常。</string>
 </resources>
