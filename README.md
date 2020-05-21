@@ -12,4 +12,4 @@ An app helps you to send 'mm' to ISP for a ShanXun password.
 
 改善“设置”，直接前往本程序的详细界面。
 
-修改封面。
+修改icon。
